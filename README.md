@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Da-eun Lim, a Solid Frontend Developer.
 
-I'm currently working as a frontend developer at **Marketing Leverage**, where I build responsive and interactive web applications using **React** and **TypeScript**.
+I'm currently working as a frontend developer, where I build responsive and interactive web applications using **React** and **TypeScript**.
 
 Though I come from a non-computer science background, I'm constantly learning and evolving as a developer. I embrace challenges and have a strong passion for growing my technical skills through hands-on projects and continuous learning.
 
