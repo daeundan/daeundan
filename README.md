@@ -16,7 +16,7 @@ I build projects using React and TypeScript.
 
 ## 📫 Contact
 - Email: ekdms534@naver.com  
-- Blog: [Dandan's Dev Diary]([https://velog.io/@dev_dan/posts])
+- phone: 010-5415-2514
 
 Thank you for visiting! 🙌
 
