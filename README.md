@@ -1,4 +1,7 @@
 # 👋 Hello! I'm Da-eun Lim, a Solid Frontend Developer.
+# 안녕하세요 프론트엔드 개발자 임다은입니다.
+
+저는 현재 마케팅회사에서 인턴 기간을 마친 후 고등학교 디자인 교사로 근무하며 프론트엔드 개발자를 준비중입니다.
 
 I'm currently working as a frontend developer, where I build responsive and interactive web applications using **React** and **TypeScript**.
 
