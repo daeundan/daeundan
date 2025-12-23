@@ -45,7 +45,7 @@ UX/UI 기획과 디자인 업무를 함께 맡고 있습니다.
 ---
 
 ## 📬 Contact
-- ✉️ Email: ekdms534@naver.com
+- ✉️ Email: frontend.dan@gmail.com
 - 📱 Phone: +82 10-5415-2514
 
 
