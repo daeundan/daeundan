@@ -23,10 +23,10 @@ UX/UI 기획과 디자인 업무를 함께 맡고 있습니다.
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, TypeScript
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript, React-Native
 - **Design:** Figma, Photoshop
-- **AI Tools:** Gemini, ChatGPT, Claude
-- **Tools:** Git, VSCode, Notion
+- **AI Tools:** Gemini, ChatGPT, Claude, Cursor, ImageFX, Antigravity, AI Studio
+- **Tools:** Git, VSCode, Notion, Jira
 
 ---
 
